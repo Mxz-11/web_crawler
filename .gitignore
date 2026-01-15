@@ -20,6 +20,6 @@ out/
 .settings/
 
 # VS Code
-.vscode
+.vscode/
 
 *.tmp
