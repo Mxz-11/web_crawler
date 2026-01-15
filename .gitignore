@@ -1,0 +1,25 @@
+.DS_Store
+Thumbs.db
+
+target/
+*.class
+
+crawled_data.txt
+*.log
+
+# IntellIJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode
+
+*.tmp
